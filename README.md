@@ -20,7 +20,7 @@ Como grande defensor do compartilhamento de conhecimentos, venho colaborando com
 ## Tecnologias:
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
-![Microsoft](https://img.shields.io/badge/Microsoft-000?style=for-the-badge&logo=microsoft)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=microsoft)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
 ![aws-cdk](https://img.shields.io/badge/AWS_CDK-000?style=for-the-badge&logo=aws-cdk)
