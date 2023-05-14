@@ -14,14 +14,31 @@ Como grande defensor do compartilhamento de conhecimentos, venho colaborando com
 - Extreme Experience Rio(Org.: Rodrigo Mourão).
 - FireBird Developer Day(Org.: Carlos H. Cantu)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseafilho/)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias:
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
+![Microsoft](https://img.shields.io/badge/Microsoft-000?style=for-the-badge&logo=microsoft)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
+![aws-cdk](https://img.shields.io/badge/AWS_CDK-000?style=for-the-badge&logo=aws-cdk)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
+![mariadb](https://img.shields.io/badge/mariadb-000?style=for-the-badge&logo=mariadb)
+![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)
+![BitBucket](https://img.shields.io/badge/BitBucket-000?style=for-the-badge&logo=BitBucket)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=Kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=Terraform)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django)
+![Vagrant](https://img.shields.io/badge/Vagrant-000?style=for-the-badge&logo=Vagrant)
+![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=Ansible)
+![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=Jenkins)
+![NGinx](https://img.shields.io/badge/NGinx-000?style=for-the-badge&logo=NGinx)
+![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=Apache)
