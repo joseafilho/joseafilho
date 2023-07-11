@@ -1,5 +1,5 @@
 ## José Araújo 👋
-DevOps Engineer | Software Engineer | AWS UG CE Leaders | Embarcadero MVP
+DevOps Engineer | Software Engineer | 2x AWS Certified | AWS UG CE Leaders | Speaker
 
 Possuo 15 anos de experiência na área de Análise e Desenvolvimento de Software, sou formado em Análise e Desenvolvimento de Sistemas(ADS) e [Pós-Graduado em Data Science pela Uni7.](https://www.uni7.edu.br/posgraduacao/especializacao-em-ciencia-de-dados/)
 
