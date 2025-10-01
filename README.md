@@ -1,9 +1,9 @@
 ## José Araújo 👋
 DevOps Engineer | Software Engineer | 2x AWS Certified | AWS UG CE Leaders | Speaker
 
-Possuo 15 anos de experiência na área de Análise e Desenvolvimento de Software, sou formado em Análise e Desenvolvimento de Sistemas(ADS) e [Pós-Graduado em Data Science pela Uni7.](https://www.uni7.edu.br/posgraduacao/especializacao-em-ciencia-de-dados/)
+Minha principal atuação no momento é como DevOps Specialist nas plataformas RedHat OpenShift, RedHat Developer Hub(BackStage), Azure e Azure DevOps. Atuando diretamente com as squads de software engineers em busca das melhores técnicas de CI/CD, otimizações, migrações de recursos, IaC(Infra as Code), monitoramento e se preciso ajudando no troubleshooting dos sistemas.
 
-Minha principal atuação no momento é como DevOps Enginner na plataforma AWS, atuando diretamente com as squads de software engineers em busca das melhores técnicas de CI/CD, otimizações, migrações de recursos, IaC(Infra as Code), monitoramento e se preciso ajudando no troubleshooting dos sistemas.
+Possuo 20 anos de experiência na área de Análise e Desenvolvimento de Software, sou formado em Análise e Desenvolvimento de Sistemas(ADS) e Pós-Graduado em Data Science pela Uni7.
 
 Como grande defensor do compartilhamento de conhecimentos, venho colaborando com a comunidade desde 2011. Já palestrei em vários eventos pelo Brasil, tais como:
 - AWS Summit 2022 - IaC(Infrastructure as Code) com AWS CDK, Overview.
